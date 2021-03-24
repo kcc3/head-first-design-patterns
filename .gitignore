@@ -26,3 +26,4 @@ hs_err_pid*
 # Ignore Eclipse Settings
 .settings/
 *.prefs
+*.project
