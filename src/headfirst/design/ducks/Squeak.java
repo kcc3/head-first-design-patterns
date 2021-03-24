@@ -1,4 +1,4 @@
-package duck;
+package ducks;
 
 public class Squeak {
 	public void quack() {

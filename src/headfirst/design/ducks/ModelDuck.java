@@ -1,4 +1,4 @@
-package duck;
+package ducks;
 
 public class ModelDuck extends Duck {
 	public ModelDuck() {
